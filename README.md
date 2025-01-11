@@ -22,14 +22,6 @@ The Laktrade Database Flutter App is a mobile application developed using the Fl
 
 ## Getting Started
 
-# Laktrade Database Flutter App
-
-This is a Flutter app for accessing and searching the Laktrade database using Supabase.
-
-## Features
-- Search for flavors by name or code
-- View flavor details when tapping on a search result
-
 ## Requirements
 - Flutter SDK
 - Supabase account and project setup
