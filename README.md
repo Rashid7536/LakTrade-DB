@@ -28,7 +28,7 @@ The Laktrade Database Flutter App is a mobile application developed using the Fl
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/your-username/laktrade-db-flutter-app.git
+git clone https://github.com/rashid7536/laktrade-db.git
 
 2. Install dependencies
 
