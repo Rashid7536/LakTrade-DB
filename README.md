@@ -2,6 +2,8 @@
 
 The Laktrade Database Flutter App is a mobile application developed using the Flutter framework. It provides a user-friendly interface to interact with the Laktrade database, which stores information about various flavors. The app allows users to search for flavors by their name or code and view detailed information about each flavor.
 
+<img src="LDB/databaseLak_LDB.jpg" width="250" />  <img src ="LDB/search_LDB.jpg" width="250" />
+
 ### Key Features
 - Search Functionality: Users can quickly search for flavors by entering a name or code in the search bar. The app will display a list of matching flavors based on the entered query.
 - Flavor Details: When a user taps on a search result, the app presents detailed information about the selected flavor. This includes the flavor name, code, and its type (e.g., Natural Emulsion, Natural Liquid, Natural Nature Cell, etc.).
